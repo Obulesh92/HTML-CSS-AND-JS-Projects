@@ -6,7 +6,9 @@
     border: none;
     font-family: Arial, Arial, Helvetica, sans-serif;
 }
-
+body {
+    background-color: rgb(255, 115, 0);
+}
 .todo {
     padding: 5px;
     border-radius: 5px;
